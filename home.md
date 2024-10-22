@@ -1,4 +1,3 @@
 ---
 title: Home
 ---
-# Community Project
